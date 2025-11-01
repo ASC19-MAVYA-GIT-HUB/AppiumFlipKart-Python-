@@ -1,0 +1,11 @@
+✅ Categories opened successfully
+✅ Search icon clicked successfully
+✅ Searched for product: Watch for woman
+✅ Filter button clicked successfully
+✅ Selected Titan brand
+✅ Selected price containing 20001
+✅ Applied filter successfully
+✅ Scrolled 1 time(s)
+✅ Brand 'Titan' found
+✅ Watch selected successfully
+✅ Screenshot saved: final_result.png
